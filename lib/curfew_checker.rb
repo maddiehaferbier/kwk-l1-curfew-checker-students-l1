@@ -5,10 +5,10 @@ def simple_curfew_checker(time)
     puts "late" 
   end 
 end
-
+simple_curfew_checker(8)
   
 
-def complex_curfew_checker(12)
+def complex_curfew_checker
   
 end
 
