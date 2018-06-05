@@ -14,14 +14,12 @@ end
 
 def deluxe_curfew_checker(time)
     if time <= 11
-    puts *"its #{time} early"
-    elsif (time) > 11 
-    puts "late" 
-  end
+    puts *"its time if you apparate now!!!"
+    elsif time > 11
+    puts "late"
+  else
+puts "your early"
 end
-deluxe_curfew_checker(5)
-def platinum_curfew_checker(current_time, curfew_time)
-  # code goes here
 end
+deluxe_curfew_checker(12)
 
-simple_curfew_checker(12) 
