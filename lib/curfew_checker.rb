@@ -14,10 +14,9 @@ end
 
 def deluxe_curfew_checker(time)
     if time <= 11
-    puts *"its time if you apparate now!!!"
+    puts "your late"
     elsif time > 11
     puts "late"
-  else
 puts "your early"
 end
 end
