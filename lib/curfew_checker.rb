@@ -8,7 +8,7 @@ end
 
   
 
-def complex_curfew_checker(time)
+def complex_curfew_checker(12)
   6 > 5 
 end
 
