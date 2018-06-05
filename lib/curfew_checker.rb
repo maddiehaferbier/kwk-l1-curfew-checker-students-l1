@@ -9,7 +9,7 @@ end
   
 
 def complex_curfew_checker(12)
-  6 > 5 
+  
 end
 
 def deluxe_curfew_checker(time)
